@@ -89,16 +89,4 @@ Learning cocos2d
    
       $ cd samples
       $ python sample_name.py
-
-
-Do you have any doubt?
-    + http://groups.google.com/group/cocos-discuss
-
-
-Did you find any bug?
-    + http://groups.google.com/group/cocos-discuss
-    + https://github.com/los-cocos/cocos
-
-
-Current repository is at
-    + https://github.com/los-cocos/cocos
+----------
